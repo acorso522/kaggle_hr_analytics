@@ -15,7 +15,7 @@ Why are our best and most experienced employees leaving prematurely? Have fun wi
     Whether the employee has left
 
 ## Required Files
-- HR_comma_sep.csv in your working directory
+HR_comma_sep.csv in your working directory
 
 ## Package Requirements
 ### Python
