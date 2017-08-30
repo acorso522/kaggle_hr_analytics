@@ -34,7 +34,7 @@ Why are our best and most experienced employees leaving prematurely? Have fun wi
 - ggplot2
 
 ## Running flask application
-Run flask app by executing 
+Run flask app by executing the following command in your shell of choice
 
 ```python
 python Documents/github/kaggle_hr_analytics/flask_app.py
